@@ -12,4 +12,3 @@
 # Test
 # Software utilizzati
 # Autori
-
